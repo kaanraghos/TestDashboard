@@ -1,4 +1,4 @@
-package com.baser.TestDashboard.entity;
+package com.baser.testdashboard.entity;
 
 public enum QuestionType {
     MULTIPLE_CHOICE,

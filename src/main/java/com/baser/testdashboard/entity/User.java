@@ -1,4 +1,4 @@
-package com.baser.TestDashboard.entity;
+package com.baser.testdashboard.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
